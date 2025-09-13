@@ -1,0 +1,12 @@
+﻿node_modules/
+dist/
+logs/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+*.psd
+*.zip
+*.rar
+.env
